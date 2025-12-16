@@ -6,7 +6,7 @@ The NorESM2 user workshop consists of lectures on simulating climate with the No
 
 This repository creates the webpage of the workshop: https://noresmhub.github.io/NorESM2_Workshop_2026/
 
-Content for the webpage is added/changed in the `gh-pages` branch of this repository. Please see instructions below from the original `CodeRefienry workshop webpage` template.
+Content for the webpage is generated from the `gh-pages` branch of this repository. Please see instructions below from the original `CodeRefienry workshop webpage` template.
 
 
 ## Quick reference
