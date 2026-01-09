@@ -2,10 +2,10 @@
 
 # this variable has to be set but it is not used
 # inside the templates (end in '/')
-base_url = "https://noresmhub.github.io/NorESM2_Workshop_2025/"
+base_url = "https://noresmhub.github.io/NorESM2_Workshop_2026/"
 
 # When adapting the title, do not forget to also adjust base_url above
-title = "NorESM2 user workshop 2025"
+title = "NorESM2 user workshop 2026"
 description = "An introductory course on how to set up, run and diagnose NorESM2."
 
 # Whether to automatically compile all Sass files in the sass directory
@@ -53,7 +53,7 @@ logos = [
 
 # adapt this
 ## registration_link = "https://example.org"
-source_repo = "https://github.com/NorESMhub/NorESM2_Workshop_2024"
+source_repo = "https://github.com/NorESMhub/NorESM2_Workshop_2026"
 ## how_to_join_video = "https://youtu.be/QUAZELOioUY"
 
 # uncomment as soon as registration opens
