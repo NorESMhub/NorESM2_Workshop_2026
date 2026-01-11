@@ -3,12 +3,15 @@
 
 ### Summary of important links
 
-- Watch the stream at [https://twitch.tv/coderefinery](https://twitch.tv/coderefinery) (shareable)
-- [Archive of past communication to participants](@/communication/_index.md) (shareable)
-- Q&A of each day is archived on [this page](@/questions/_index.md) (shareable)
-- Videos [on Twitch](https://www.twitch.tv/coderefinery/videos) for 7 days
-  and [on
-  YouTube](https://www.youtube.com/playlist?list=PLpLblYHCzJACpOmIzO8TywjtfYD7_d93H) later
-- Install instructions: <https://coderefinery.github.io/installation/>
-- Lesson material is linked in the schedule below (shareable)
-- Collaborative document for questions and notes (please register to receive it)
+- Links to lesson material in the schedule below (shareable)
+- Day 1:
+  + [NorESM user workshop - overview](https://github.com/NorESMhub/NorESM2_Workshop_2026/blob/main/presentations/01-NorESM_user_workshop-DAY1.pdf)
+  + [Introduction to NorESM2](https://github.com/NorESMhub/NorESM2_Workshop_2026/blob/main/presentations/02-Introduction_to_NorESM2.pdf)
+  + [Model architecture and run scripts](https://github.com/NorESMhub/NorESM2_Workshop_2026/blob/main/presentations/03-NorESM_Model_Structure_and_Use_DAY1.pdf)
+- Exercises:
+  + [Exercises DAY1](https://github.com/NorESMhub/NorESM2_Workshop_2026/blob/main/exercises/NorESM_workshop_2024_exercises.pdf)
+- Day 2:
+  + [Config tools and types of NorESM runs](https://github.com/NorESMhub/NorESM2_Workshop_2026/blob/main/presentations/04-NorESM_UserWorkshop2024_DAY2.pdf)
+  + [Changing namelist settings](https://github.com/NorESMhub/NorESM2_Workshop_2026/blob/main/presentations/Day2_02_NorESM-namelists_MD.pdf)
+  + [NorESM output and diagnostic tools](https://github.com/NorESMhub/NorESM2_Workshop_2026/blob/main/presentations/05-NorESM-Diagnostics-DAY2.pdf)
+  - [notes in HackMD](https://hackmd.io/v19N1OEpRXGaHuB7zGCAWA)

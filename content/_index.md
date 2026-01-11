@@ -2,47 +2,46 @@
 title = "Schedule"
 +++
 
-## Be a team leader
+## Course goals
 
-Do you know some of the topics, but want to review them?
-Do you wish your colleagues or friends would use these tools?
-Why not [attend as a team leader](@/join.md)?
-Gather some friends who want to learn the topics and follow the workshop together.
-You don't need to be an expert: if you have been through CodeRefinery once or have some familiarity
-with the topics, and you are confident to use the notes to ask questions when needed,
-then you have all it takes to lead a team to success,
-or lead even more people and join with your own classroom (see below).
-
-If this sounds interesting to you, please register asap and choose team leader, 
-so that we can set up an onboarding call. 
+The goal of the coars is that the participants should be able to set up and
+run NorESM experiments, run standard diagnostics on the model output, and 
+learn how to contribute to the NorESM model system and supporting infrastructure.
 
 
-## Be a Q&A helper
+## Audience
 
-Help us answer questions from the participants in the online Q&A document (collaborative notes).
-
-If this sounds interesting to you, please register asap, so that we can invite you to an onboarding session. 
+The workshop is intended for Ph.D students, postdocs and scientists who are interested in executing model simulations and learning more about technical aspects around it.
 
 
-## Local exercise groups
 
-Some organizations offer local support (in-person or online). 
-If you want to "bring your own classroom", get in contact (support(at)coderefinery.org) and we can onboard and support you.
+## Prerequisites
 
-To join any of the below mentioned groups, please sign up to the CodeRefinery workshop with your organizational e-mail address (or mention in the free form field that you would like to join one of the local groups). We will soon reach out to share more information about the local groups. Please also let us know if you want your local group to be listed here. 
-
-We collect here the exercise groups that we know:
-- ...
+- You should bring your own laptop with an installed SSH client, to enable
+  login to Sigma2 resources.
+- You will need an account on the Sigma2 HPC Betzy to work with NorESM. If
+  you do not already have access to these systems, we
+  can arrange access before the meeting.
+- You should be able to navigate the file tree in a terminal session and edit
+  text files in the terminal.
+  [This Linux shell crash course](https://scicomp.aalto.fi/scicomp/shell/)
+  ([video](https://youtu.be/56p6xX0aToI))
+  contains the essentials.
 
 
 ## Instructors
 
-- ...
-
+- Ada Gjermundsen
+- Alok Gupta
+- Yanchun He
+- Tomas Torsvik
+- Matvey Debolskiy
+- Steve Goldhaber
+- Mariana Vertenstein
 
 ## Workshop organizers
 
-- ...
+- INES2
 
 
 ## On-boarding
@@ -60,7 +59,7 @@ We collect here the exercise groups that we know:
 - ...
 
 
-## Local organizers and team leads
+## Local organizers
 
 - ...
 
