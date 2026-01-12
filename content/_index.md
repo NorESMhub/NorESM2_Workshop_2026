@@ -43,27 +43,3 @@ The workshop is intended for Ph.D students, postdocs and scientists who are inte
 
 - INES2
 
-
-## On-boarding
-
-- ...
-
-
-## Outreach
-
-- ...
-
-
-## Recording and broadcasting
-
-- ...
-
-
-## Local organizers
-
-- ...
-
-
-## Collaborative notes managers
-
-- ...
