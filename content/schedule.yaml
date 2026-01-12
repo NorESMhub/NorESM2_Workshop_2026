@@ -7,7 +7,7 @@ schedule:
       - starts: 8:00
         ends: 8:30
         title: Welcome and introduction
-        url: https://github.com/coderefinery/workshop-intro/blob/master/livestream.md
+        #url: https://github.com/coderefinery/workshop-intro/blob/master/livestream.md
         presenters: Tomas
       - starts: 8:30
         ends: 9:15
@@ -18,6 +18,7 @@ schedule:
       - starts: 9:15
         ends: 9:30
         title: Coffee break
+        presenters: NA
       - starts: 9:30
         ends: 10:15
         title: Hands-on session
@@ -31,6 +32,7 @@ schedule:
       - starts: 11:00
         ends: 11:45
         title: Lunch break
+        presenters: NA
       - starts: 11:45
         ends: 12:30
         title: NorESM model structure and use
@@ -38,6 +40,7 @@ schedule:
       - starts: 12:30
         ends: 12:45
         title: Coffee break
+        presenters: NA
       - starts: 12:45
         ends: 13:30
         title: Reproducible work flow
@@ -58,6 +61,7 @@ schedule:
       - starts: 9:45
         ends: 10:00
         title: Coffee break
+        presenters: NA
       - starts: 10:00
         ends: 11:30
         title: The land component: CLM-FATES
@@ -67,6 +71,7 @@ schedule:
       - starts: 11:30
         ends: 12:15
         title: Lunch break
+        presenters: NA
       - starts: 12:15
         ends: 13:45
         title: The ocean component: BLOM + iHAMOCC
@@ -83,6 +88,10 @@ schedule:
         title: NorESM diagnostics package
         presenters: TBA
       - starts: 9:30
+        ends: 9:45
+        title: Coffee break
+        presenters: NA
+      - starts: 9:45
         ends: 10:30
         title: Hands-on session
         presenters: TBA
