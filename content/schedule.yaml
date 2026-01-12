@@ -7,13 +7,10 @@ schedule:
       - starts: 8:00
         ends: 8:30
         title: Welcome and introduction
-        #url: https://github.com/coderefinery/workshop-intro/blob/master/livestream.md
         presenters: Tomas
       - starts: 8:30
         ends: 9:15
         title: Overview of NorESM
-        #subtitle: "Why we want to track versions and how to go back in time to a working version: [Motivation](https://coderefinery.github.io/git-intro/motivation/), [Browsing](https://coderefinery.github.io/git-intro/browsing/), [Commiting](https://coderefinery.github.io/git-intro/commits/)"
-        #url: https://coderefinery.github.io/git-intro/
         presenters: Tomas
       - starts: 9:15
         ends: 9:30
@@ -22,8 +19,6 @@ schedule:
       - starts: 9:30
         ends: 10:15
         title: Hands-on session
-        #subtitle: "[Merging](https://coderefinery.github.io/git-intro/merging/)"
-        #url: https://coderefinery.github.io/git-intro/
         presenters: Tomas / Alok
       - starts: 10:15
         ends: 11:00
@@ -55,8 +50,6 @@ schedule:
       - starts: 8:00
         ends: 9:45
         title: The atmosphere component: CAM
-        #subtitle: "[Day 2 intro](https://github.com/coderefinery/workshop-intro/blob/master/daily_intro.md), [Local work](https://coderefinery.github.io/git-intro/local-workflow/), [Inspecting history](https://coderefinery.github.io/git-intro/archaeology/)"
-        #url: https://coderefinery.github.io/git-intro/
         presenters: TBA
       - starts: 9:45
         ends: 10:00
@@ -65,8 +58,6 @@ schedule:
       - starts: 10:00
         ends: 11:30
         title: The land component: CLM-FATES
-        #subtitle: "[Sharing work](https://coderefinery.github.io/git-intro/sharing/), [Practical advice](https://coderefinery.github.io/git-intro/level/), [What to avoid](https://coderefinery.github.io/git-intro/what-to-avoid/)"
-        #url: https://coderefinery.github.io/git-intro/
         presenters: TBA
       - starts: 11:30
         ends: 12:15
