@@ -1,82 +1,95 @@
 ---
 # all times must be input in UTC, be careful about daylight saving
 schedule:
-  - title: "Shell crash course and installation help"
-    date: "2026-01-12"
-    sessions:
-      - starts: 12:00
-        ends: 12:30
-        title: Shell crash course
-        url: https://youtu.be/xbTTDLA3txI
-        subtitle: "This is optional, but recommended to beginners in command line."
-      - starts: 12:30
-        ends: 13:30
-        title: Installation help for everybody (option 1)
-        url: https://coderefinery.github.io/installation/
-        subtitle: "Please attend if you need help with the installation instructions. Choose the option that works best for you."
-  - title: "Installation help"
-    date: "2026-01-12"
-    sessions:
-      - starts: 12:30
-        ends: 14:00
-        title: Installation help for everybody (option 2)
-        url: https://coderefinery.github.io/installation/
-        subtitle: "Please attend if you need help with the installation instructions. Choose the option that works best for you."
-  - title: "Day 1"
+  - title: "Day 1: Set up and run NorESM"
     date: "2026-01-14"
     sessions:
       - starts: 8:00
-        ends: 8:20
+        ends: 8:30
         title: Welcome and introduction
         url: https://github.com/coderefinery/workshop-intro/blob/master/livestream.md
-        presenters: TBA
-      - starts: 8:20
-        ends: 10:00
-        title: Introduction to version control with Git - part 1/4
-        subtitle: "Why we want to track versions and how to go back in time to a working version: [Motivation](https://coderefinery.github.io/git-intro/motivation/), [Browsing](https://coderefinery.github.io/git-intro/browsing/), [Commiting](https://coderefinery.github.io/git-intro/commits/)"
-        url: https://coderefinery.github.io/git-intro/
+        presenters: Tomas
+      - starts: 8:30
+        ends: 9:15
+        title: Overview of NorESM
+        #subtitle: "Why we want to track versions and how to go back in time to a working version: [Motivation](https://coderefinery.github.io/git-intro/motivation/), [Browsing](https://coderefinery.github.io/git-intro/browsing/), [Commiting](https://coderefinery.github.io/git-intro/commits/)"
+        #url: https://coderefinery.github.io/git-intro/
+        presenters: Tomas
+      - starts: 9:15
+        ends: 9:30
+        title: Coffee break
+      - starts: 9:30
+        ends: 10:15
+        title: Hands-on session
+        #subtitle: "[Merging](https://coderefinery.github.io/git-intro/merging/)"
+        #url: https://coderefinery.github.io/git-intro/
+        presenters: Tomas / Alok
+      - starts: 10:15
+        ends: 11:00
+        title: Log files and ncview + NorESM
         presenters: TBA
       - starts: 11:00
+        ends: 11:45
+        title: Lunch break
+      - starts: 11:45
         ends: 12:30
-        title: Introduction to version control with Git - part 2/4
-        url: https://coderefinery.github.io/git-intro/
+        title: NorESM model structure and use
         presenters: TBA
-        subtitle: "[Merging](https://coderefinery.github.io/git-intro/merging/)"
-  - title: "Day 2"
+      - starts: 12:30
+        ends: 12:45
+        title: Coffee break
+      - starts: 12:45
+        ends: 13:30
+        title: Reproducible work flow
+        presenters: TBA
+      - starts: 13:30
+        ends: 14:30
+        title: Hands-on session
+        presenters: Mariana / Steve
+  - title: "Day 2: NorESM model components"
     date: "2026-01-15"
     sessions:
       - starts: 8:00
+        ends: 9:45
+        title: The atmosphere component: CAM
+        #subtitle: "[Day 2 intro](https://github.com/coderefinery/workshop-intro/blob/master/daily_intro.md), [Local work](https://coderefinery.github.io/git-intro/local-workflow/), [Inspecting history](https://coderefinery.github.io/git-intro/archaeology/)"
+        #url: https://coderefinery.github.io/git-intro/
+        presenters: TBA
+      - starts: 9:45
         ends: 10:00
-        title: Introduction to version control with Git - part 3/4
-        url: https://coderefinery.github.io/git-intro/
+        title: Coffee break
+      - starts: 10:00
+        ends: 11:30
+        title: The land component: CLM-FATES
+        #subtitle: "[Sharing work](https://coderefinery.github.io/git-intro/sharing/), [Practical advice](https://coderefinery.github.io/git-intro/level/), [What to avoid](https://coderefinery.github.io/git-intro/what-to-avoid/)"
+        #url: https://coderefinery.github.io/git-intro/
         presenters: TBA
-        subtitle: "[Day 2 intro](https://github.com/coderefinery/workshop-intro/blob/master/daily_intro.md), [Local work](https://coderefinery.github.io/git-intro/local-workflow/), [Inspecting history](https://coderefinery.github.io/git-intro/archaeology/)"
-      - starts: 11:00
-        ends: 12:30
-        title: Introduction to version control with Git - part 4/4
-        url: https://coderefinery.github.io/git-intro/
+      - starts: 11:30
+        ends: 12:15
+        title: Lunch break
+      - starts: 12:15
+        ends: 13:45
+        title: The ocean component: BLOM + iHAMOCC
         presenters: TBA
-        subtitle: "[Sharing work](https://coderefinery.github.io/git-intro/sharing/), [Practical advice](https://coderefinery.github.io/git-intro/level/), [What to avoid](https://coderefinery.github.io/git-intro/what-to-avoid/)"
-  - title: "Day 3"
+      - starts: 13:45
+        ends: 14:30
+        title: Hands-on session
+        presenters: TBA
+  - title: "Day 3: Diagnostics"
     date: "2026-01-16"
     sessions:
       - starts: 8:00
-        ends: 10:00
-        title: Collaborative distributed version control - part 1/2
-        url: https://coderefinery.github.io/git-collaborative/
+        ends: 9:30
+        title: NorESM diagnostics package
         presenters: TBA
-        subtitle: >-
-          [Day 3
-          intro](https://github.com/coderefinery/workshop-intro/blob/master/daily_intro.md#welcome-to-day-3-of-the-coderefinery-workshop),
-          [Concepts](https://coderefinery.github.io/git-collaborative/concepts/),
-          [Same
-          repository](https://coderefinery.github.io/git-collaborative/same-repository/),
-          [Code
-          Review](https://coderefinery.github.io/git-collaborative/code-review/)
-      - starts: 11:00
+      - starts: 9:30
+        ends: 10:30
+        title: Hands-on session
+        presenters: TBA
+      - starts: 10:30
+        ends: 11:30
+        title: Lunch break
+      - starts: 11:30
         ends: 12:30
-        title: Collaborative distributed version control - part 2/2
-        url: https://coderefinery.github.io/git-collaborative/
+        title: Development workflow
         presenters: TBA
-        subtitle: >-
-          [Contributing to others](https://coderefinery.github.io/git-collaborative/forking-workflow/)
