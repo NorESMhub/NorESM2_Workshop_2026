@@ -1,6 +1,14 @@
 +++
 +++
 
-### News
+### Venue
 
-- Here we will post latest news before/during the workshop
+**Bergen:**
+Geophysical Institute, Allegaten 70, Room U105
+
+**Oslo:**
+Kristine Bonnevies hus, 2 etg., Room 2414
+https://www.uio.no/english/about/getting-around/areas/blindern/bl18/
+
+**On-line:**
+- Day1:
