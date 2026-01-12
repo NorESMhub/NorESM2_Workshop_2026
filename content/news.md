@@ -11,4 +11,4 @@ Kristine Bonnevies hus, 2 etg., Room 2414
 https://www.uio.no/english/about/getting-around/areas/blindern/bl18/
 
 **On-line:**
-- Day1:
+Separate email with zoom link will be sent to participants.
