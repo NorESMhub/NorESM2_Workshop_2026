@@ -11,35 +11,32 @@ schedule:
       - starts: 8:30
         ends: 9:15
         title: Overview of NorESM
-        presenters: Tomas
-      - starts: 9:15
-        ends: 9:30
-        title: Coffee break
-        presenters: NA
+        presenters: Tomas / Alok
       - starts: 9:30
-        ends: 10:15
+        ends: 9:45
+        title: Coffee break
+      - starts: 9:45
+        ends: 10:30
         title: Hands-on session
         presenters: Tomas / Alok
-      - starts: 10:15
+      - starts: 10:30
         ends: 11:00
         title: Log files and ncview + NorESM
-        presenters: TBA
+        presenters: Tomas
       - starts: 11:00
         ends: 11:45
         title: Lunch break
-        presenters: NA
       - starts: 11:45
         ends: 12:30
         title: NorESM model structure and use
-        presenters: TBA
+        presenters: Mariana
       - starts: 12:30
         ends: 12:45
         title: Coffee break
-        presenters: NA
       - starts: 12:45
         ends: 13:30
         title: Reproducible work flow
-        presenters: TBA
+        presenters: Steve
       - starts: 13:30
         ends: 14:30
         title: Hands-on session
