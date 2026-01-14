@@ -5,8 +5,8 @@
 
 - Links to lesson material in the schedule below (shareable)
 - Day 1:
-  + [NorESM user workshop - overview](https://github.com/NorESMhub/NorESM2_Workshop_2026/blob/main/presentations/01-NorESM_user_workshop-DAY1.pdf)
-  + [Introduction to NorESM2](https://github.com/NorESMhub/NorESM2_Workshop_2026/blob/main/presentations/02-Introduction_to_NorESM2.pdf)
+  <!-- + [NorESM user workshop - overview](https://github.com/NorESMhub/NorESM2_Workshop_2026/blob/main/presentations/01-NorESM_user_workshop-DAY1.pdf) -->
+  <!-- + [Introduction to NorESM2](https://github.com/NorESMhub/NorESM2_Workshop_2026/blob/main/presentations/02-Introduction_to_NorESM2.pdf) -->
   + [NorESM2.3 architecture and use](https://github.com/NorESMhub/NorESM2_Workshop_2026/blob/main/presentations/03-noresm2.3_tutorial_jan2026.pdf)
 <!-- - Exercises: -->
 <!--   + [Exercises DAY1](https://github.com/NorESMhub/NorESM2_Workshop_2026/blob/main/exercises/NorESM_workshop_2024_exercises.pdf) -->
