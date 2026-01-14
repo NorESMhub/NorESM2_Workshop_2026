@@ -3,8 +3,8 @@
 
 ### Summary of important links
 
-- Links to lesson material in the schedule below (shareable)
 - [notes in HackMD](https://hackmd.io/join/note/dmvQPXKbRI)
+- Links to lesson material in the schedule below (shareable)
 - Day 1:
   + [NorESM user workshop - overview](https://github.com/NorESMhub/NorESM2_Workshop_2026/blob/main/presentations/01-NorESM_user_workshop-DAY1.pdf)
   + [Introduction to NorESM2](https://github.com/NorESMhub/NorESM2_Workshop_2026/blob/main/presentations/02-Introduction_to_NorESM2.pdf)
