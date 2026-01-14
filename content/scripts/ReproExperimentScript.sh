@@ -3,13 +3,13 @@
 ##    but with reduced output.
 
 ## Experiment basics, modify these for your experiment
-TAG=${TAG:-"release-noresm2.3.0"}
+TAG=${TAG:-"noresm2_3_beta01"}
 COMPSET=${COMPSET:-"N2000"}
 RES=${RES:-"f19_tn14"}
-SRCROOT=${SRCROOT:-"/cluster/projects/nn9039k/xxUSERxx/NorESM"}
+SRCROOT=${SRCROOT:-"/cluster/home/xxUSERxx/NorESM"}
 CASEDIR=${CASEDIR:-"/cluster/work/users/xxUSERxx/cases/${COMPSET}_${RES}"}
 REPO=${REPO:-"https://github.com/NorESMhub/NorESM"}
-PROJECT=${PROJECT:-"nn9039k"}
+PROJECT=${PROJECT:-"nn9560k"}
 
 perror() {
   ## Print an error message and exit if a non-zero error code is passed

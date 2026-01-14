@@ -3,13 +3,13 @@
 ##    but with reduced output.
 
 ## Experiment basics, modify these for your experiment
-TAG="release-noresm2.3.0"
+TAG="noresm2_3_beta01"
 COMPSET="N2000"
 RES="f19_tn14"
-SRCROOT="/cluster/projects/nn9039k/xxUSERxx/NorESM"
+SRCROOT="/cluster/home/xxUSERxx/NorESM"
 CASEDIR="/cluster/work/users/xxUSERxx/cases/${COMPSET}_${RES}"
 REPO="https://github.com/NorESMhub/NorESM"
-PROJECT="nn9039k"
+PROJECT="nn9560k"
 
 ## (make sure that clone exists, otherwise, clone REPO)
 if [ ! -d "${SRCROOT}" ]; then
