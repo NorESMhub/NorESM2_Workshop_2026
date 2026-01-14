@@ -12,4 +12,4 @@ Kristine Bonnevies hus, 2 etg., Room 2320 ([map](https://www.uio.no/english/abou
 **On-line:**
 Separate email with zoom link will be sent to participants.
 
-**HackMD notes:** [https://hackmd.io/join/note/dmvQPXKbRI](https://hackmd.io/join/note/dmvQPXKbRI)
+<!-- **HackMD notes:** [https://hackmd.io/join/note/dmvQPXKbRI](https://hackmd.io/join/note/dmvQPXKbRI) -->
