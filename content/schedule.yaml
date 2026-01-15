@@ -52,8 +52,8 @@ schedule:
         ends: 9:45
         title: The atmosphere component -- CAM
         presenters: TBA
-        subtitle: "[Introduction to CAM](https://github.com/NorESMhub/NorESM2_Workshop_2026/blob/main/presentations/05-IntroCAM_2026_01_15.pdf)"
-        subtitle: "[Aerosols and chemistry](https://github.com/NorESMhub/NorESM2_Workshop_2026/blob/main/presentations/06-Aerosols_and_chemistry.pdf)"
+        subtitle: "[Introduction to CAM](https://github.com/NorESMhub/NorESM2_Workshop_2026/blob/main/presentations/05-IntroCAM_2026_01_15.pdf); 
+[Aerosols and chemistry](https://github.com/NorESMhub/NorESM2_Workshop_2026/blob/main/presentations/06-Aerosols_and_chemistry.pdf)"
       - starts: 9:45
         ends: 10:00
         title: Coffee break
