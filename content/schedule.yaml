@@ -7,12 +7,14 @@ schedule:
       - starts: 8:00
         ends: 8:30
         title: Welcome and introduction
-        presenters: Tomas
         subtitle: "[NorESM user workshop - overview](https://github.com/NorESMhub/NorESM2_Workshop_2026/blob/main/presentations/01-NorESM_user_workshop-DAY1.pdf)
 "
+        presenters: Tomas
       - starts: 8:30
         ends: 9:30
         title: Overview of NorESM
+        subtitle: "[Introduction to NorESM2](https://github.com/NorESMhub/NorESM2_Workshop_2026/blob/main/presentations/02-Introduction_to_NorESM2.pdf)
+"
         presenters: Tomas / Alok
       - starts: 9:30
         ends: 9:45
@@ -31,6 +33,8 @@ schedule:
       - starts: 11:45
         ends: 12:30
         title: NorESM model structure and use
+        subtitle: "[NorESM2.3 architecture and use](https://github.com/NorESMhub/NorESM2_Workshop_2026/blob/main/presentations/03-noresm2.3_tutorial_jan2026.pdf)
+"
         presenters: Mariana
       - starts: 12:30
         ends: 12:45
@@ -38,6 +42,8 @@ schedule:
       - starts: 12:45
         ends: 13:30
         title: Reproducible work flow
+        subtitle: "[Reproducible development and namelists](https://github.com/NorESMhub/NorESM2_Workshop_2026/blob/main/presentations/04-Reproducible_workflow_NorESM2.pdf)
+"
         presenters: Steve
       - starts: 13:30
         ends: 14:30
