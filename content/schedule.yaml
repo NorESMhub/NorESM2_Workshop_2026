@@ -51,25 +51,26 @@ schedule:
       - starts: 8:00
         ends: 9:45
         title: The atmosphere component -- CAM
-        presenters: TBA
+        presenters: Steve / Dirk
         subtitle: "[Introduction to CAM](https://github.com/NorESMhub/NorESM2_Workshop_2026/blob/main/presentations/05-IntroCAM_2026_01_15.pdf); 
 [Aerosols and chemistry](https://github.com/NorESMhub/NorESM2_Workshop_2026/blob/main/presentations/06-Aerosols_and_chemistry.pdf)"
       - starts: 9:45
         ends: 10:00
         title: Coffee break
-        presenters: NA
       - starts: 10:00
         ends: 11:30
         title: The land component -- CLM-FATES
-        presenters: TBA
+        presenters: Rosie / Kjetil
+        subtitle: "[NorESM land component](https://github.com/NorESMhub/NorESM2_Workshop_2026/blob/main/presentations/07-NorESM_tutorial_2026_land.pdf)"
       - starts: 11:30
         ends: 12:15
         title: Lunch break
-        presenters: NA
       - starts: 12:15
         ends: 13:45
         title: The ocean component -- BLOM + iHAMOCC
-        presenters: TBA
+        presenters: Mats / Jöran / Tomas
+        subtitle: "[Ocean physics-dynamics](https://github.com/NorESMhub/NorESM2_Workshop_2026/blob/main/presentations/08-Ocean_physics-dynamics.pdf); 
+[Ocean biogeochemistry](https://github.com/NorESMhub/NorESM2_Workshop_2026/blob/main/presentations/09-Ocean_biogeochemistry.pdf)"
       - starts: 13:45
         ends: 14:30
         title: Hands-on session
@@ -80,7 +81,8 @@ schedule:
       - starts: 8:00
         ends: 9:30
         title: NorESM diagnostics package
-        presenters: TBA
+        presenters: Yanchun
+        subtitle: "[NorESM diagnostics](https://github.com/NorESMhub/NorESM2_Workshop_2026/blob/main/presentations/10-noresm-diagnostics.pdf)"
       - starts: 9:30
         ends: 9:45
         title: Coffee break
@@ -88,11 +90,15 @@ schedule:
       - starts: 9:45
         ends: 10:30
         title: Hands-on session
-        presenters: TBA
+        presenters: Yanchun
       - starts: 10:30
         ends: 11:30
         title: Lunch break
       - starts: 11:30
+        ends: 11:40
+        title: "[NIRD Central Data Library](https://github.com/NorESMhub/NorESM2_Workshop_2026/blob/main/presentations/11-NIRD_Central-Data-Library.pdf)"
+        presenters: TBA
+      - starts: 11:40
         ends: 12:30
         title: Development workflow
         presenters: TBA

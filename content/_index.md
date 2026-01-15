@@ -38,6 +38,11 @@ The workshop is intended for Ph.D students, postdocs and scientists who are inte
 - Matvey Debolskiy
 - Steve Goldhaber
 - Mariana Vertenstein
+- Dirk Olivie
+- Rosie Fisher
+- Kjetil Aas
+- Mats Bentsen
+- Jöran Maerz
 
 ## Workshop organizers
 
