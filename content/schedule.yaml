@@ -86,7 +86,6 @@ schedule:
       - starts: 9:30
         ends: 9:45
         title: Coffee break
-        presenters: NA
       - starts: 9:45
         ends: 10:30
         title: Hands-on session
@@ -98,8 +97,9 @@ schedule:
         ends: 11:40
         title: NIRD resources
         subtitle: "[NIRD Central Data Library](https://github.com/NorESMhub/NorESM2_Workshop_2026/blob/main/presentations/11-NIRD_Central-Data-Library.pdf)"
-        presenters: TBA
+        presenters: Yanchun
       - starts: 11:40
         ends: 12:30
-        title: Development workflow
-        presenters: TBA
+        title: Development workflow - closing workshop
+        subtitle: "[Development workflow](https://github.com/NorESMhub/NorESM2_Workshop_2026/blob/main/presentations/12-NorESM_UserWorkshop2026_DevelopmentWorkflow.pdf); [Close workshop](https://github.com/NorESMhub/NorESM2_Workshop_2026/blob/main/presentations/13-Development_workflow-end_statement.pdf)"
+        presenters: Mariana / Tomas
