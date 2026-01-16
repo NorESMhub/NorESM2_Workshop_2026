@@ -1,0 +1,105 @@
+---
+# all times must be input in UTC, be careful about daylight saving
+schedule:
+  - title: "Day 1: Set up and run NorESM"
+    date: "2026-01-14"
+    sessions:
+      - starts: 8:00
+        ends: 8:30
+        title: Welcome and introduction
+        subtitle: "[NorESM user workshop - overview](https://github.com/NorESMhub/NorESM2_Workshop_2026/blob/main/presentations/01-NorESM_user_workshop-DAY1.pdf)"
+        presenters: Tomas
+      - starts: 8:30
+        ends: 9:30
+        title: Overview of NorESM
+        subtitle: "[Introduction to NorESM2](https://github.com/NorESMhub/NorESM2_Workshop_2026/blob/main/presentations/02-Introduction_to_NorESM2.pdf)"
+        presenters: Tomas / Alok
+      - starts: 9:30
+        ends: 9:45
+        title: Coffee break
+      - starts: 9:45
+        ends: 10:30
+        title: Hands-on session
+        presenters: Tomas / Alok
+      - starts: 10:30
+        ends: 11:00
+        title: Log files and ncview + NorESM
+        presenters: Tomas
+      - starts: 11:00
+        ends: 11:45
+        title: Lunch break
+      - starts: 11:45
+        ends: 12:30
+        title: NorESM model structure and use
+        subtitle: "[NorESM2.3 architecture and use](https://github.com/NorESMhub/NorESM2_Workshop_2026/blob/main/presentations/03-noresm2.3_tutorial_jan2026.pdf)"
+        presenters: Mariana
+      - starts: 12:30
+        ends: 12:45
+        title: Coffee break
+      - starts: 12:45
+        ends: 13:30
+        title: Reproducible work flow
+        subtitle: "[Reproducible development and namelists](https://github.com/NorESMhub/NorESM2_Workshop_2026/blob/main/presentations/04-Reproducible_workflow_NorESM2.pdf)"
+        presenters: Steve
+      - starts: 13:30
+        ends: 14:30
+        title: Hands-on session
+        presenters: Mariana / Steve
+  - title: "Day 2: NorESM model components"
+    date: "2026-01-15"
+    sessions:
+      - starts: 8:00
+        ends: 9:45
+        title: The atmosphere component -- CAM
+        presenters: Steve / Dirk
+        subtitle: "[Introduction to CAM](https://github.com/NorESMhub/NorESM2_Workshop_2026/blob/main/presentations/05-IntroCAM_2026_01_15.pdf); 
+[Aerosols and chemistry](https://github.com/NorESMhub/NorESM2_Workshop_2026/blob/main/presentations/06-Aerosols_and_chemistry.pdf)"
+      - starts: 9:45
+        ends: 10:00
+        title: Coffee break
+      - starts: 10:00
+        ends: 11:30
+        title: The land component -- CLM-FATES
+        presenters: Rosie / Kjetil
+        subtitle: "[NorESM land component](https://github.com/NorESMhub/NorESM2_Workshop_2026/blob/main/presentations/07-NorESM_tutorial_2026_land.pdf)"
+      - starts: 11:30
+        ends: 12:15
+        title: Lunch break
+      - starts: 12:15
+        ends: 13:45
+        title: The ocean component -- BLOM + iHAMOCC
+        presenters: Mats / Jöran / Tomas
+        subtitle: "[Ocean physics-dynamics](https://github.com/NorESMhub/NorESM2_Workshop_2026/blob/main/presentations/08-Ocean_physics-dynamics.pdf); 
+[Ocean biogeochemistry](https://github.com/NorESMhub/NorESM2_Workshop_2026/blob/main/presentations/09-Ocean_biogeochemistry.pdf)"
+      - starts: 13:45
+        ends: 14:30
+        title: Hands-on session
+        presenters: TBA
+  - title: "Day 3: Diagnostics"
+    date: "2026-01-16"
+    sessions:
+      - starts: 8:00
+        ends: 9:30
+        title: NorESM diagnostics package
+        presenters: Yanchun
+        subtitle: "[NorESM diagnostics](https://github.com/NorESMhub/NorESM2_Workshop_2026/blob/main/presentations/10-noresm-diagnostics.pdf)"
+      - starts: 9:30
+        ends: 9:45
+        title: Coffee break
+      - starts: 9:45
+        ends: 10:30
+        title: Hands-on session
+        presenters: Yanchun
+      - starts: 10:30
+        ends: 11:30
+        title: Lunch break
+      - starts: 11:30
+        ends: 11:40
+        title: NIRD resources
+        subtitle: "[NIRD Central Data Library](https://github.com/NorESMhub/NorESM2_Workshop_2026/blob/main/presentations/11-NIRD_Central-Data-Library.pdf)"
+        presenters: Yanchun
+      - starts: 11:40
+        ends: 12:30
+        title: Development workflow - closing workshop
+        subtitle: "[Development workflow](https://github.com/NorESMhub/NorESM2_Workshop_2026/blob/main/presentations/12-NorESM_UserWorkshop2026_DevelopmentWorkflow.pdf); [Close workshop](https://github.com/NorESMhub/NorESM2_Workshop_2026/blob/main/presentations/13-Development_workflow-end_statement.pdf)"
+        presenters: Mariana / Tomas
