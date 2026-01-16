@@ -96,7 +96,8 @@ schedule:
         title: Lunch break
       - starts: 11:30
         ends: 11:40
-        title: "[NIRD Central Data Library](https://github.com/NorESMhub/NorESM2_Workshop_2026/blob/main/presentations/11-NIRD_Central-Data-Library.pdf)"
+        title: NIRD resources
+        subtitle: "[NIRD Central Data Library](https://github.com/NorESMhub/NorESM2_Workshop_2026/blob/main/presentations/11-NIRD_Central-Data-Library.pdf)"
         presenters: TBA
       - starts: 11:40
         ends: 12:30
